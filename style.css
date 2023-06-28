@@ -38,7 +38,7 @@ input[type=text]:focus {
 
 .content {
   opacity: 0;
-  font-size: 40px;
+  font-size: 27px;
   position: absolute;
   top: 0;
   left: 0;
