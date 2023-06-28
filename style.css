@@ -62,7 +62,7 @@ input[type=text]:focus {
   height: 0;
   opacity: 1;
   transition-delay: 0s;
-  transition-duration: 0.4s;
+  transition-duration: 10s;
 }
 
 .listemagasins .magasin .content:hover .text {
